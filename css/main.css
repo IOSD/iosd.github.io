@@ -956,3 +956,7 @@ ul.nostyle i {
   transition: all 0.3s;
   -webkit-filter:opacity(50%);
 }
+
+.team-lower-team img{
+  width: 50%;
+}
