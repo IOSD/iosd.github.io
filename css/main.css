@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
 /*
 Template Name: Multi
 Version: 1.0
@@ -935,4 +935,28 @@ ul.nostyle i {
 .form-control {
   box-shadow: none;
   -webkit-box-shadow: none;
+}
+
+/*----------Team-----------------*/
+#meet-team-2 {
+  padding: 100px 0;
+}
+.team-info >span{
+  color: #45aed6 !important;
+}
+.team-cont{
+  width: 100%;
+  margin: 0 auto;
+}
+.img2{
+  border-radius:50% !important;width:60%;margin: 0 auto;border: 4px solid #eeeeee;
+  transition: all 0.3s;
+}
+.img2:hover{
+  transition: all 0.3s;
+  -webkit-filter:opacity(50%);
+}
+
+.team-lower-team img{
+  width: 50%;
 }
