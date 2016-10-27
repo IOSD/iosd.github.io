@@ -211,4 +211,16 @@ jQuery(function($) {'use strict';
 	$("a[rel^='prettyPhoto']").prettyPhoto({
 		social_tools: false
 	});
+
+	$(document).ready(function(){
+		$('.ol').click(function(event) {
+			console.log($(this));
+			console.log($(".ol").index($(this))+1);
+			$('#myCarousel').carousel($(".ol").index($(this))+1);
+		});
+
+		$('.haloo').click(function(event) {
+			$('#myCarousel').carousel(0);
+		});
+	});
 });
