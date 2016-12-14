@@ -1,0 +1,157 @@
+/* =================================================================== */
+/* Blue #00aeef
+====================================================================== */
+
+a,
+.colored,
+.post-content h2 a:hover,
+ul.circled li:before,
+ul.arrow li:before,
+.btn.btn-color-brd,
+.footer a:hover,
+.nav > li > a:hover,
+.nav > li.current a,
+.header-nav .nav .open > a,
+.header-nav .nav .open > a:hover,
+.header-nav .nav .open > a:focus,
+.header-nav .dropdown-menu > li > a:hover,
+.header-nav .dropdown-menu > li > a:focus,
+.header-nav .dropdown-submenu:hover > a,
+.header-nav .dropdown-submenu:focus > a,
+.header-nav .dropdown-menu > .active > a,
+.header-nav .dropdown-menu > .active > a:hover,
+.header-nav .dropdown-menu > .active > a:focus,
+.yamm .yamm-content a:hover,
+.header-nav.basic.sticky .navbar-nav > li > a:hover,
+.services-box .col:hover i,
+.services-box-2 i,
+.services-box-2 i.small,
+.team-box-animated .front span,
+.filter a.active,
+.work-descr,
+.work-item:hover .work-descr,
+.panel-title > a:hover,
+.progress-list li em,
+.meta ul li a:hover,
+.facts-home a:hover,
+.post-home .col h1 a:hover,
+.product-grid .post .meta ul li a:hover,
+.navigation a:hover,
+.sidebar a:hover,
+.tp-caption a,
+#testimonials .author,
+.testimonials h2,
+.parallax a:hover,
+.items .info h4 a:hover,
+.tabs-top .tab a:hover,
+.tabs-top .tab.active a,
+.parallax.pagetitle a,
+.pricing .plan h4,
+.aboutme h3,
+.f-element i,
+.owl-portfolio .info h4 a:hover,
+.sidebox a:hover,
+.rating,
+.product-grid .post .post-content .rating,
+.product-grid .post .post-content .price span,
+.product-grid .post .post-content h5 a:hover,
+.rw-words-1 span,
+.services-box-2 .content h3 a:hover.dark,
+.footer .services-box-3:hover i,
+.f-element .highlight.color,
+.services-box-3 i,
+.med .social-icons li a:hover i,
+.page-nav a:hover,
+.page-nav .active{ color: #00aeef; }
+
+
+.header-nav .dropdown-menu li a:hover,
+.header-nav .dropdown-menu li a.active,
+.project-descr { color: #00aeef!important;}
+
+
+.header-nav .dropdown-menu,
+.btn.btn-color-brd,
+.filter li a.active,
+.navigation a:hover,
+#testimonials .tab a.active,
+#testimonials .tab a:hover,
+.tabs-top .tab.active a,
+.table td:hover i,
+.team-box-animated .back,
+.services-box-3 .col:hover i,
+.services-box .col a:hover,
+.nav > li > a:hover:before, .navbar-nav > li.current:before,
+.pricing .plan:hover, .pricing .plan.active,
+.social-icons li a:hover i,
+.tags li a:hover,
+.services-box-3 i.circle-border,
+.services-box-3:hover i.circle-border,
+h3.heading:before,
+p.h-sub:before{ border-color: #00aeef; }
+
+
+
+
+.footer_tags li a:hover,
+.tooltip-inner,
+.social-icons .tooltip-inner,
+.services-box-3 .col:hover i,
+.progress .bar,
+.progress-success .bar, .progress-green .bar { background-color: #00aeef; }
+
+
+
+
+.bg-color,
+.btn,
+.btn.btn-blue,
+.parallax .btn-submit,
+.btn-submit,
+.color-wrapper,
+.parallax .btn-submit:hover,
+.newsletter-wrapper #mc_embed_signup .button,
+.filter li a.active,
+.tabs-top .tab.active a,
+ul.circled span,
+.tags li a:hover,
+.table td:hover i,
+.team-box-animated .back,
+.newsletter-wrapper #mc_embed_signup .button,
+.pagination .current, .pagination ul li a:hover,
+.pricing .plan:hover, .pricing .plan.active,
+.edu .btn-submit,
+.footer .btn-submit.alt,
+.footer.white .btn-submit.alt,
+.med:hover,
+.med.active,
+.social-icons li a:hover i,
+.double-bounce1,
+.double-bounce2,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{ background: #00aeef; }
+
+
+
+.social-top li a:hover i {
+    color: #00aeef!important;
+}
+
+
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow,
+.social-icons .tooltip.top .tooltip-arrow {
+    border-top-color: #00aeef
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #00aeef
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #00aeef
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #00aeef
+}
