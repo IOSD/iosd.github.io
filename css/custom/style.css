@@ -745,7 +745,7 @@ form.searchForm input + input {
   position: relative;
   z-index: 9;
   color: #b9b9b9;
-  max-width: 830px;
+  max-width: 1000px;
   margin: 0 auto;
   padding-top: 193px;
   font-size: 16px; }

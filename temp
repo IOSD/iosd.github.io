@@ -1,0 +1,23 @@
+<div class="romana_project_single_img">
+                        <img src="images/project_img6.jpg" alt="">
+                        <div class="romana_img_hover"></div>
+                        <div class="romana_img_hover_content">
+                            <a href="http://synergy.sddtu.org">FEST - SYNERGY</a>
+                        </div>
+                    </div>
+                     <div class="romana_project_single_img">
+                        <img src="images/project_img2.jpg" alt="">
+                        <div class="romana_img_hover"></div>
+                        <div class="romana_img_hover_content">
+                            <a href="service.html">MOCK ACM ICPC</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="romana_project_single_img">
+                        <img src="images/project_img4.jpg" alt="">
+                        <div class="romana_img_hover"></div>
+                        <div class="romana_img_hover_content">
+                            <a href="service.html">CODE LIKE A GIRL CHALLENGE</a>
+                        </div>
+                    </div>
+                </div>
