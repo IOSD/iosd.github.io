@@ -1,0 +1,103 @@
+ervice_area start
+============================================================ -->
+<div class="romana_service_area romana_section_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-6 col-xs-12">
+                <div class="romana_service_left_text romana_section_title">
+                    <h2>our services</h2>
+                    <p>We being a group of like minded developers brings ambitious brands to the next level by transforming their digital business environment. Because we have so much coding running down in our veins, we believe we can do a really cool job of website and mobile app development even while we are sleepwalking. So, all your cool start up ideas can turn into real mobile application and website, all you got to do is give a holler or simply walk in to our Delhi adda. Coffee is on us!</p>
+                    <div class="romana_service_btn">
+                        <a href="service.html">view more</a>
+                    </div>
+                </div>
+                <!-- romana_service_left_text End -->
+            </div>
+            <!-- column End -->
+            <div class="col-sm-3 col-md-offset-1 col-xs-6">
+                <div class="romana_service_icon">
+                    <a href="single-service.html"><img src="images/service_icon1.png" alt="icon"></a>
+                    <a href="service.html"><h3>WebDev and Portal Management</h3></a>
+                </div>
+                <!-- romana_service_icon End -->
+                <div class="romana_service_icon">
+                    <a href="single-service.html"><img src="images/service_icon3.png" alt="icon"></a>
+                    <a href="service.html"><h3>Data Science Services</h3></a>
+                </div>
+                <!-- romana_service_icon End -->
+            </div>
+            <!-- column End -->
+            <div class="col-sm-3 col-xs-6">
+                <div class="romana_service_icon">
+                    <a href="single-service.html"><img src="images/service_icon2.png" alt="icon"></a>
+                    <a href="service.html"><h3>Android and IOS Development</h3></a>
+                </div>
+                <!-- romana_service_icon End -->
+                <div class="romana_service_icon">
+                    <a href="single-service.html"><img src="images/service_icon4.png" alt="icon"></a>
+                    <a href="service.html"><h3>SEO Services</h3></a>
+                </div>
+                <!-- romana_service_icon End -->
+            </div>
+            <!-- column End -->
+        </div>
+        <!-- row End -->
+    </div>
+    <!-- container End -->
+</div>
+
+
+
+.*Projects_area start
+============================================================ -->
+<div class="romana_projects_area romana_section_padding">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xs-6">
+                <div class="romana_project_text romana_section_title">
+                    <h2>Upcoming Events </h2>
+                    <p></p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="romana_project_left_img">
+                    <div class="romana_project_single_img">
+                        <img src="images/project_img1.jpg" alt="">
+                        <div class="romana_img_hover"></div>
+                        <div class="romana_img_hover_content">
+                            <a href="service.html">MONTHLY PROGRAMMING CONTESTS</a>
+                        </div>
+                    </div>
+                   
+            </div>
+            <!-- column End -->
+            <div class="col-sm-4">
+                <div class="romana_middle_img">
+                    <div class="romana_project_single_img">
+                        <img src="images/project_img3.jpg" alt="">
+                        <div class="romana_img_hover"></div>
+                        <div class="romana_img_hover_content">
+                            <a href="service.html">MEETUPS</a>
+                        </div>
+                    </div>
+                    
+            </div>
+            <!-- column End -->
+            <div class="col-sm-4">
+                <div class="romana_right_img">
+                    <div class="romana_project_single_img">
+                        <img src="images/project_img5.jpg" alt="">
+                        <div class="romana_img_hover"></div>
+                        <div class="romana_img_hover_content">
+                            <a href="service.html">MOCK HACKATHONS</a>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <!-- column End -->
+        </div>
+        <!-- row End -->
+    </div>
+    <!-- container End -->
+</div>
